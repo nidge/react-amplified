@@ -1,0 +1,21 @@
+{
+    "appName": "reactamplified",
+    "roleName": "pinpointLambdaRole55038ce2",
+    "cloudformationPolicyName": "cloudformationPolicy55038ce2",
+    "cloudWatchPolicyName": "cloudWatchPolicy55038ce2",
+    "pinpointPolicyName": "pinpointPolicy55038ce2",
+    "authPolicyName": "pinpoint_amplify_55038ce2",
+    "unauthPolicyName": "pinpoint_amplify_55038ce2",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
