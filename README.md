@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-[AWS Amplify link](https://eu-west-2.console.aws.amazon.com/amplify/home?region=eu-west-2#/dmt9fp3t9jy2p)
+This project was created by following the steps in this [tutorial](https://docs.amplify.aws/start/q/integration/react/)
+
+It is found in my AWS account [AWS Amplify link](https://eu-west-2.console.aws.amazon.com/amplify/home?region=eu-west-2#/dmt9fp3t9jy2p)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
